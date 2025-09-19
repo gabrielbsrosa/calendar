@@ -2,9 +2,7 @@
 
 |Idioma/Culture|Doc|
 |:--|:---|
-|🇵🇹|README.md(atual)|
-|🇺🇸|[README_en.md](./README_en.md)|
-|🇪🇸|[README_es.md](./README_es.md)|
+|🇵🇹|README.md
 
 > [!IMPORTANT]  
 Antes de tudo possua pelo menos a versão de janeiro de 2025 do Power BI Desktop instalado.  
